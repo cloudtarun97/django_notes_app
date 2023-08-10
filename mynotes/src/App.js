@@ -12,7 +12,7 @@ import NotePage from './pages/NotePage';
 function App() {
   return (
     <Router>
-      <div className="container blue">
+      <div className="container grey">
         <div className="app">
         <Header />
         <Routes>
